@@ -9,5 +9,4 @@ Additionally, there's an expander section titled "About the App" that provides m
 
 This app aims to provide a convenient way to obtain summaries of YouTube videos, enhancing the user's experience by saving time and effort in understanding video content.
 
-
-![image](https://github.com/xtrahue/youtube_video_summerizer/assets/108055347/03fe4a5f-290f-49cd-8760-8a84a59f4b28)
+![image](https://github.com/xtrahue/youtube_video_summerizer/assets/108055347/ee65152a-d6a0-457e-939a-35a763349df2)
